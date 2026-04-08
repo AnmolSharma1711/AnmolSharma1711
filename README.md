@@ -33,13 +33,6 @@ I'm passionate about coding, open source, and building things that make life eas
 
 ---
 
-## 📈 GitHub Stats
-
-![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmolSharma1711&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSharma1711&layout=compact&theme=github_dark)
-
----
-
 ## 🏆 Achievements & Highlights
 
 - 🏅 Participated in coding contests, hackathons, and open source events.
